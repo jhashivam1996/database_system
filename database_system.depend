@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554107630 source:e:\database_system\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1554111309 source:e:\database_system\postfix_cal.cpp
+	<iostream>
+	<stack>
+	<string.h>
+
